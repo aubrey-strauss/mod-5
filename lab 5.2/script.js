@@ -4,6 +4,7 @@ const email = document.getElementById('email');
 const password = document.getElementById('password');
 const confirmPassword = document.getElementById('confirmPassword');
 
+//Testing for structure
 form.addEventListener('submit', e => {
     e.preventDefault();
 
